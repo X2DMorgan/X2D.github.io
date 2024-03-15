@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #FAFAFA;
+            background-color: #FF0000;
         }
         header {
             background-color: #333;
