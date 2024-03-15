@@ -4,28 +4,28 @@
     <meta name="viewport" content="width=device-width, initial-scale">
     <title>Zone de Couleur</title>
     <style>
-        .zone-couleur {
-            width: 980px; /* Largeur de la zone de couleur */
-            height: 50px; /* Hauteur de la zone de couleur */
-            background-color: #F7F7F7; /* Couleur de fond de la zone */
-            }
-        nav {
-            background-color: #666;
-            color: #fff;
+        Accueil {
+            background-color: #f7f7f7;
             padding: 10px 20px;
-            text-align: center;
+            text-align: 300px 20px;
         }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 10px;
+        A propos {
+            background-color: #f7f7f7;
+            padding: 10px 20px;
+            text-align: 200px 20px;
+        }
+        .zone-couleur {
+        width: 980px; /* Largeur de la zone de couleur */
+        height: 50px; /* Hauteur de la zone de couleur */
+        background-color: #F7F7F7; /* Couleur de fond de la zone */
+        }
     </style>
 <head>
     <header>
-        <nav>
-        <a href="#">Accueil</a>
-        <a href="#">À propos</a>
-    </nav>
+        <Accueil>
+        <a href="#">    Accueil     </a>
+        <A propos>
+        <a href="#">    À propos    </a>
 <body>
     <div class="zone-couleur"></div>
 </body>
