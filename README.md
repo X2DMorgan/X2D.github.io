@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Le site de Morgan</title>
     <style>
-        body {
+        corps {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -44,7 +44,7 @@
         }
     </style>
 </head>
-<body>
+<corps>
     <header>
         <h1>Le site de Morgan</h1>
     </header>
@@ -59,5 +59,5 @@
     <footer>
         <p>&copy; 2024 Le site de Morgan. Tu peux avoir tous les droits :)</p>
     </footer>
-</body>
+</corps>
 </html>
