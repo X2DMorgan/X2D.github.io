@@ -4,8 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
     section {
-            padding: 0px;
-            margin: 20px;
+            padding: 5px;
+            margin: 1px;
             background-color: #FF0000;
         }
 </html>
