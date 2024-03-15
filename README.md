@@ -13,4 +13,3 @@
 <body>
     <div class="zone-couleur"></div>
 </body>
-</html>
