@@ -1,6 +1,0 @@
-/* Commentaire CSS */
-.conteneur {
-    width: 200px; /* Largeur de l'élément conteneur */
-    height: 100px; /* Hauteur de l'élément conteneur */
-    border: 2px solid #000000; /* Bordure de 2 pixels solide, couleur noire */
-}
