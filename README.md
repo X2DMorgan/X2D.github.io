@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale">
     <title>Zone de Couleur</title>
     <style>
-        }
         .zone-couleur {
         width: 980px; /* Largeur de la zone de couleur */
         height: 48px; /* Hauteur de la zone de couleur */
