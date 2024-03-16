@@ -9,12 +9,6 @@
             padding: 20px 20px;
             text-align: 500px 20px;
         }
-        }
-        .zone-couleur {
-        width: 1314px; /* Largeur de la zone de couleur */
-        height: 48px; /* Hauteur de la zone de couleur */
-        background-color: #F7F7F7; /* Couleur de fond de la zone */
-        }
     </style>
 <head>
     <header>
