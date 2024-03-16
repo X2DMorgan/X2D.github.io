@@ -6,7 +6,7 @@
     <style>
         }
         .zone-couleur {
-        width: 900px; /* Largeur de la zone de couleur */
+        width: 980px; /* Largeur de la zone de couleur */
         height: 48px; /* Hauteur de la zone de couleur */
         background-color: #F7F7F7; /* Couleur de fond de la zone */
         }
