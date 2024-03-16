@@ -6,7 +6,6 @@
     <style>
         Accueil {
             background-color: #f7f7f7;
-            padding: 20px 20px;
             text-align: 500px 20px;
         }
     </style>
