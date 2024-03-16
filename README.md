@@ -6,7 +6,7 @@
     <style>
         Accueil {
             background-color: #f7f7f7;
-            padding: 10px 20px;
+            padding: 200px 300px;
             text-align: 500px 20px;
         }
         A propos {
@@ -15,7 +15,7 @@
             text-align: 900px 20px;
         }
         .zone-couleur {
-        width: 980px; /* Largeur de la zone de couleur */
+        width: 900px; /* Largeur de la zone de couleur */
         height: 20px; /* Hauteur de la zone de couleur */
         background-color: #F7F7F7; /* Couleur de fond de la zone */
         }
