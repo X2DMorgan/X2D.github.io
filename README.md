@@ -5,8 +5,12 @@
     <title>Zone de Couleur</title>
     <style>
         Accueil {
-            background-color: #f7f7f7;
             text-align: 500px 20px;
+        }
+        .zone-couleur {
+        width: 980px; /* Largeur de la zone de couleur */
+        height: 50px; /* Hauteur de la zone de couleur */
+        background-color: #F7F7F7; /* Couleur de fond de la zone */
         }
     </style>
 <head>
@@ -16,3 +20,7 @@
 <body>
     <div class="zone-couleur"></div>
 </body>
+
+
+
+f7f7f7
