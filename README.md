@@ -20,7 +20,3 @@
 <body>
     <div class="zone-couleur"></div>
 </body>
-
-
-
-f7f7f7
