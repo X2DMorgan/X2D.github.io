@@ -11,11 +11,10 @@
         }
         A propos {
             background-color: #f7f7f7;
-           
             text-align: 900px 20px;
         }
         .zone-couleur {
-        width: 900px; /* Largeur de la zone de couleur */
+        width: 200px; /* Largeur de la zone de couleur */
         height: 20px; /* Hauteur de la zone de couleur */
         background-color: #F7F7F7; /* Couleur de fond de la zone */
         }
