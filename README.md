@@ -6,12 +6,12 @@
     <style>
         Accueil {
             background-color: #f7f7f7;
-            padding: 200px 300px;
+            padding: 20px 20px;
             text-align: 500px 20px;
         }
         A propos {
             background-color: #f7f7f7;
-            padding: 10px 20px;
+           
             text-align: 900px 20px;
         }
         .zone-couleur {
