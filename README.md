@@ -4,14 +4,14 @@
     <meta name="viewport" content="width=device-width, initial-scale">
     <title>Zone de Couleur</title>
     <style>
-        Accueil {
-            text-align: 500px 20px;
         }
         .zone-couleur {
-        width: 980px; /* Largeur de la zone de couleur */
-        height: 50px; /* Hauteur de la zone de couleur */
+        width: 1314px; /* Largeur de la zone de couleur */
+        height: 48px; /* Hauteur de la zone de couleur */
         background-color: #F7F7F7; /* Couleur de fond de la zone */
         }
+        Accueil {
+            text-align: 500px 20px;
     </style>
 <head>
     <header>
