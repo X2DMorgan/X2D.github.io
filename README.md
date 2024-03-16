@@ -9,12 +9,9 @@
             padding: 20px 20px;
             text-align: 500px 20px;
         }
-        A propos {
-            background-color: #f7f7f7;
-            text-align: 900px 20px;
         }
         .zone-couleur {
-        width: 200px; /* Largeur de la zone de couleur */
+        width: 900px; /* Largeur de la zone de couleur */
         height: 20px; /* Hauteur de la zone de couleur */
         background-color: #F7F7F7; /* Couleur de fond de la zone */
         }
@@ -23,8 +20,6 @@
     <header>
         <Accueil>
         <a href="#">    Accueil     </a>
-        <A propos>
-        <a href="#">    À propos    </a>
 <body>
     <div class="zone-couleur"></div>
 </body>
